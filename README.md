@@ -1,4 +1,5 @@
 ## Hi there 👋
+Как не удалять
 
 <!--
 **Czotof/Czotof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
